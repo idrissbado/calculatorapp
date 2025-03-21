@@ -1,6 +1,7 @@
 # Calculator App: Learning Version Control, CI, and QA
 
-![Calculator App](https://placeholder.svg?height=300&width=500)
+![image](https://github.com/user-attachments/assets/e8db9470-01e5-405c-ae26-3bcc24891d8d)
+
 
 ## 📝 Description
 
